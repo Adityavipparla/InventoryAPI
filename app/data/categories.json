@@ -1,0 +1,19 @@
+
+[
+    {
+        "id": 1,
+        "name": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Books"
+    },
+    {
+        "id": 3,
+        "name": "Sationary"
+    },
+    {
+        "id": 4,
+        "name": "Shop"
+    }
+]

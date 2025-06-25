@@ -1,0 +1,39 @@
+
+[
+    {
+        "category_id": 1,
+        "id": 1,
+        "name": "Smartphone",
+        "price": 699.99
+    },
+    {
+        "category_id": 1,
+        "id": 2,
+        "name": "iPhone 15 Pro",
+        "price": 1099.0
+    },
+    {
+      "category_id": 2,
+      "id": 3,
+      "name": "Python ",
+        "price": 100.0
+    },
+    {
+        "category_id": 3,
+        "id": 4,
+        "name": "Pen",
+        "price": 10.0
+    },
+    {
+        "category_id": 3,
+        "id": 5,
+        "name": "Pencil",
+        "price": 10.0
+    },
+    {
+        "category_id": 3,
+        "id": 6,
+        "name": "Calk",
+        "price": 10.0
+    }
+]
